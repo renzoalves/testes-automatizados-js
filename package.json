@@ -1,0 +1,16 @@
+{
+  "name": "testes-automatizados",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.test.js",
+  "type": "module",
+  "scripts": {
+    "test": "npx nodemon index.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
